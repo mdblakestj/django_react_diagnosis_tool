@@ -1,0 +1,35 @@
+{
+  "name": "django-react-symptom-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development ./symptom_checker/frontend/src/index.js --output ./symptom_checker/frontend/static/frontend/main.js",
+    "build": "webpack --mode production ./symptom_checker/frontend/src/index.js --output ./symptom_checker/frontend/static/frontend/main.js",
+    "hats": "webpack-dev-server",
+    "flush": "pipenv run python ./project/manage.py flush --no-input",
+    "e2e": "cypress open --project ./project/frontend/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.6.0",
+    "@babel/preset-env": "^7.6.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.6",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "cypress": "^3.4.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "weak-key": "^1.0.1",
+    "webpack": "^4.40.2",
+    "webpack-cli": "^3.3.8",
+    "webpack-dev-server": "^3.8.1",
+    "webpack-livereload-plugin": "^2.2.0"
+  },
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}

@@ -1,0 +1,234 @@
+[
+  {
+    "model": "symptoms.symptomdiagnosis",
+    "pk": 1,
+    "fields": {
+      "symptom_id": 1,
+      "diagnosis_id": 1
+    }
+  },
+  {
+    "model": "symptoms.symptomdiagnosis",
+    "pk": 2,
+    "fields": {
+      "symptom_id": 1,
+      "diagnosis_id": 2
+    }
+  },
+  {
+    "model": "symptoms.symptomdiagnosis",
+    "pk": 3,
+    "fields": {
+      "symptom_id": 1,
+      "diagnosis_id": 3
+    }
+  },
+  {
+    "model": "symptoms.symptomdiagnosis",
+    "pk": 4,
+    "fields": {
+      "symptom_id": 1,
+      "diagnosis_id": 4
+    }
+  },
+  {
+    "model": "symptoms.symptomdiagnosis",
+    "pk": 5,
+    "fields": {
+      "symptom_id": 1,
+      "diagnosis_id": 5
+    }
+  },
+  {
+    "model": "symptoms.symptomdiagnosis",
+    "pk": 7,
+    "fields": {
+      "symptom_id": 1,
+      "diagnosis_id": 7
+    }
+  },
+  {
+    "model": "symptoms.symptomdiagnosis",
+    "pk": 8,
+    "fields": {
+      "symptom_id": 1,
+      "diagnosis_id": 8
+    }
+  },
+  {
+    "model": "symptoms.symptomdiagnosis",
+    "pk": 9,
+    "fields": {
+      "symptom_id": 1,
+      "diagnosis_id": 9
+    }
+  },
+  {
+    "model": "symptoms.symptomdiagnosis",
+    "pk": 10,
+    "fields": {
+      "symptom_id": 1,
+      "diagnosis_id": 10
+    }
+  },
+  {
+    "model": "symptoms.symptomdiagnosis",
+    "pk": 11,
+    "fields": {
+      "symptom_id": 2,
+      "diagnosis_id": 11
+    }
+  },
+  {
+    "model": "symptoms.symptomdiagnosis",
+    "pk": 12,
+    "fields": {
+      "symptom_id": 2,
+      "diagnosis_id": 12
+    }
+  },
+  {
+    "model": "symptoms.symptomdiagnosis",
+    "pk": 13,
+    "fields": {
+      "symptom_id": 2,
+      "diagnosis_id": 13
+    }
+  },
+  {
+    "model": "symptoms.symptomdiagnosis",
+    "pk": 14,
+    "fields": {
+      "symptom_id": 2,
+      "diagnosis_id": 14
+    }
+  },
+  {
+    "model": "symptoms.symptomdiagnosis",
+    "pk": 15,
+    "fields": {
+      "symptom_id": 2,
+      "diagnosis_id": 15
+    }
+  },
+  {
+    "model": "symptoms.symptomdiagnosis",
+    "pk": 16,
+    "fields": {
+      "symptom_id": 2,
+      "diagnosis_id": 16
+    }
+  },
+  {
+    "model": "symptoms.symptomdiagnosis",
+    "pk": 17,
+    "fields": {
+      "symptom_id": 2,
+      "diagnosis_id": 17
+    }
+  },
+  {
+    "model": "symptoms.symptomdiagnosis",
+    "pk": 18,
+    "fields": {
+      "symptom_id": 2,
+      "diagnosis_id": 18
+    }
+  },
+  {
+    "model": "symptoms.symptomdiagnosis",
+    "pk": 19,
+    "fields": {
+      "symptom_id": 2,
+      "diagnosis_id": 19
+    }
+  },
+  {
+    "model": "symptoms.symptomdiagnosis",
+    "pk": 20,
+    "fields": {
+      "symptom_id": 2,
+      "diagnosis_id": 20
+    }
+  },
+  {
+    "model": "symptoms.symptomdiagnosis",
+    "pk": 21,
+    "fields": {
+      "symptom_id": 3,
+      "diagnosis_id": 1
+    }
+  },
+  {
+    "model": "symptoms.symptomdiagnosis",
+    "pk": 22,
+    "fields": {
+      "symptom_id": 3,
+      "diagnosis_id": 21
+    }
+  },
+  {
+    "model": "symptoms.symptomdiagnosis",
+    "pk": 23,
+    "fields": {
+      "symptom_id": 3,
+      "diagnosis_id": 22
+    }
+  },
+  {
+    "model": "symptoms.symptomdiagnosis",
+    "pk": 24,
+    "fields": {
+      "symptom_id": 3,
+      "diagnosis_id": 23
+    }
+  },
+  {
+    "model": "symptoms.symptomdiagnosis",
+    "pk": 25,
+    "fields": {
+      "symptom_id": 3,
+      "diagnosis_id": 24
+    }
+  },
+  {
+    "model": "symptoms.symptomdiagnosis",
+    "pk": 26,
+    "fields": {
+      "symptom_id": 3,
+      "diagnosis_id": 7
+    }
+  },
+  {
+    "model": "symptoms.symptomdiagnosis",
+    "pk": 27,
+    "fields": {
+      "symptom_id": 3,
+      "diagnosis_id": 25
+    }
+  },
+  {
+    "model": "symptoms.symptomdiagnosis",
+    "pk": 28,
+    "fields": {
+      "symptom_id": 3,
+      "diagnosis_id": 26
+    }
+  },
+  {
+    "model": "symptoms.symptomdiagnosis",
+    "pk": 29,
+    "fields": {
+      "symptom_id": 3,
+      "diagnosis_id": 27
+    }
+  },
+  {
+    "model": "symptoms.symptomdiagnosis",
+    "pk": 30,
+    "fields": {
+      "symptom_id": 3,
+      "diagnosis_id": 28
+    }
+  }
+]

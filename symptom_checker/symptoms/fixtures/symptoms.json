@@ -1,0 +1,23 @@
+[
+  {
+    "model": "symptoms.symptom",
+    "pk": 1,
+    "fields": {
+      "name": "sore throat"
+    }
+  },
+  {
+    "model": "symptoms.symptom",
+    "pk": 2,
+    "fields": {
+      "name": "itchy rash"
+    }
+  },
+  {
+    "model": "symptoms.symptom",
+    "pk": 3,
+    "fields": {
+      "name": "runny nose"
+    }
+  }
+]
