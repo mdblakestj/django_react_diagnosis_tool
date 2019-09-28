@@ -1,0 +1,191 @@
+[
+  {
+    "model": "symptoms.diagnosis",
+    "pk": 1,
+    "fields": {
+      "name": "common cold"
+    }
+  },
+  {
+    "model": "symptoms.diagnosis",
+    "pk": 2,
+    "fields": {
+      "name": "viral throat infection"
+    }
+  },
+  {
+    "model": "symptoms.diagnosis",
+    "pk": 3,
+    "fields": {
+      "name": "middle ear infection"
+    }
+  },
+  {
+    "model": "symptoms.diagnosis",
+    "pk": 4,
+    "fields": {
+      "name": "seasonal allergies"
+    }
+  },
+  {
+    "model": "symptoms.diagnosis",
+    "pk": 5,
+    "fields": {
+      "name": "strep throat"
+    }
+  },
+  {
+    "model": "symptoms.diagnosis",
+    "pk": 7,
+    "fields": {
+      "name": "mononucleosis infection"
+    }
+  },
+  {
+    "model": "symptoms.diagnosis",
+    "pk": 8,
+    "fields": {
+      "name": "bronchitis"
+    }
+  },
+  {
+    "model": "symptoms.diagnosis",
+    "pk": 9,
+    "fields": {
+      "name": "acid reflux disease"
+    }
+  },
+  {
+    "model": "symptoms.diagnosis",
+    "pk": 10,
+    "fields": {
+      "name": "acute bacterial sinusitis"
+    }
+  },
+  {
+    "model": "symptoms.diagnosis",
+    "pk": 11,
+    "fields": {
+      "name": "sunburn"
+    }
+  },
+  {
+    "model": "symptoms.diagnosis",
+    "pk": 12,
+    "fields": {
+      "name": "irritant contact dermatitis"
+    }
+  },
+  {
+    "model": "symptoms.diagnosis",
+    "pk": 13,
+    "fields": {
+      "name": "non-specific dermatitis (skin inflammation)"
+    }
+  },
+  {
+    "model": "symptoms.diagnosis",
+    "pk": 14,
+    "fields": {
+      "name": "hives"
+    }
+  },
+  {
+    "model": "symptoms.diagnosis",
+    "pk": 15,
+    "fields": {
+      "name": "benign skin growth"
+    }
+  },
+  {
+    "model": "symptoms.diagnosis",
+    "pk": 16,
+    "fields": {
+      "name": "allergic reaction to poison ivy/oak/sumac"
+    }
+  },
+  {
+    "model": "symptoms.diagnosis",
+    "pk": 17,
+    "fields": {
+      "name": "chronic hepatitis c"
+    }
+  },
+  {
+    "model": "symptoms.diagnosis",
+    "pk": 18,
+    "fields": {
+      "name": "shingles (herpes zoster)"
+    }
+  },
+  {
+    "model": "symptoms.diagnosis",
+    "pk": 19,
+    "fields": {
+      "name": "perianal skin infection"
+    }
+  },
+  {
+    "model": "symptoms.diagnosis",
+    "pk": 20,
+    "fields": {
+      "name": "seborrheic dermatitis"
+    }
+  },
+  {
+    "model": "symptoms.diagnosis",
+    "pk": 21,
+    "fields": {
+      "name": "chronic sinusitis"
+    }
+  },
+  {
+    "model": "symptoms.diagnosis",
+    "pk": 22,
+    "fields": {
+      "name": "non-allergic rhinitis"
+    }
+  },
+  {
+    "model": "symptoms.diagnosis",
+    "pk": 23,
+    "fields": {
+      "name": "chronic allergies"
+    }
+  },
+  {
+    "model": "symptoms.diagnosis",
+    "pk": 24,
+    "fields": {
+      "name": "normal congestion and runny nose"
+    }
+  },
+  {
+    "model": "symptoms.diagnosis",
+    "pk": 25,
+    "fields": {
+      "name": "viral infection of the larynx (voice box)"
+    }
+  },
+  {
+    "model": "symptoms.diagnosis",
+    "pk": 26,
+    "fields": {
+      "name": "chronic bronchitis"
+    }
+  },
+  {
+    "model": "symptoms.diagnosis",
+    "pk": 27,
+    "fields": {
+      "name": "hand-foot-and-mouth disease"
+    }
+  },
+  {
+    "model": "symptoms.diagnosis",
+    "pk": 28,
+    "fields": {
+      "name": "bronchiectasis"
+    }
+  }
+]
