@@ -1,4 +1,4 @@
-# A Simple Diagnosing Tool Coding Challenge
+# A Simple Diagnosing Tool 
 
 This is a simple diagnosing tool built with Django and React.
 
