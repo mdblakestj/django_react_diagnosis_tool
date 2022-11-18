@@ -25,7 +25,7 @@
     "react-dom": "^16.9.0",
     "weak-key": "^1.0.1",
     "webpack": "^4.40.2",
-    "webpack-cli": "^3.3.8",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.8.1",
     "webpack-livereload-plugin": "^2.2.0"
   },
